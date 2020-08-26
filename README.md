@@ -6,5 +6,12 @@ During this experiment, we will solve the polynomial regression problem with two
 - The normal equation
 - Gradient Descent
 
+
+## Setup
+In order to install the conda environment needed to run the notebook, run the following line:
+```console
+conda env create --file requirements.yml
+conda activate torch
+```
 ## Notebook
 The experiment can be found in the notebook at the root of the project.

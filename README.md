@@ -7,7 +7,7 @@ During this experiment, we will solve the polynomial regression problem with two
 - using Gradient Descent
 
 ## Blog Post
-Please follow this [link](https://consciousml.github.io/blog/polynomial-regression/pytorch/gradient-descent/from-scratch/2020/09/22/Polynomial-Regression.html) to access the notebook.
+Please follow this [link](https://consciousml.github.io/blog/polynomial-regression/pytorch/gradient-descent/from-scratch/2020/09/14/Polynomial-Regression.html) to access the blog post associated with this project.
 
 ## Setup
 In order to install the conda environment needed to run the notebook, run the following line:
